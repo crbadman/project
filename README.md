@@ -37,4 +37,4 @@ Elemental Archive is a python program written in VS Code. It is based on a perso
 
 ## Contact
 
-created by chloerosebadman@gmail.com
+Created by chloerosebadman@gmail.com
