@@ -7,7 +7,7 @@ Elemental Archive is a python program written in VS Code. It is based on a perso
 - Python 3.13
 - VS Code 1.105
 
-## Setup
+## Setup & Usage
 
 - Launch the program in VS Code 1.105
 - Run the file
@@ -28,3 +28,13 @@ Elemental Archive is a python program written in VS Code. It is based on a perso
 - Tutorial for Python Classes and Objects --> https://www.w3schools.com/python/python_classes.asp
 - Tutorial for Python _init_ in Classes --> https://www.w3schools.com/python/python_class_init.asp
 - Tutorial for Python Dictionaries --> https://www.w3schools.com/python/python_dictionaries.asp
+- Tutorial for Python settattr() Function --> https://www.w3schools.com/python/ref_func_setattr.asp
+- Tutorial for Python Threading --> https://www.digitalocean.com/community/tutorials/python-time-sleep
+
+## Aknowledgements
+- This project is based on a personal project of mine, built upon research surrounding the elements of the periodic table
+- Special thanks to my sister for blind-testing this project for me
+
+## Contact
+
+created by chloerosebadman@gmail.com
